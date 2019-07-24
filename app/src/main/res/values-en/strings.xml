@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">1_Stones</string>
+    <string name="Rocas">Stones</string>
     <string name="Jugar">¡Play!</string>
     <string name="Ajustes">Settings</string>
     <string name="Salir">Exit</string>
