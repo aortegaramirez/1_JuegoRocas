@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">1_JuegoRocas</string>
+    <string name="Jugar">¡Jugar!</string>
+    <string name="Ajustes">Ajustes</string>
+    <string name="Salir">Salir</string>
+    <string name="Info">Info</string>
 </resources>
